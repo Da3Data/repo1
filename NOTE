@@ -1,0 +1,7 @@
+This repo was created to test the following:
+
+# this was lesson-01 
+# task: create a repo > add a file > chk the 'git status' > to see if the update is shown.
+# originally thought about deleting the local win fld (hence the fld name) but now keeping. 
+# fld is marked as READ-ONLY probably by github so that there is consistency between winExplorer and github. 
+# If rename the fld could cause issues.
